@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Lucifer Morningstar
     
-➥ Creator : [Crazy_Lolan](
-https://t.me/Crazy_Lolan)
+➥ Creator : [Crazy_Lolan](https://t.me/Crazy_Lolan)
 
 ➥ Group : @at3movies
 
