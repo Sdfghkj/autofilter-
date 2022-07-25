@@ -37,5 +37,5 @@ https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Maintained by : [AF_x_SU](https://t.me/AF_x_SU)
 """
