@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Lucifer Morningstar
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Crazy_Lolan](
+https://t.me/Crazy_Lolan)
 
-➥ Language : Python3
+➥ Group : @at3movies
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Channel : @at3_movies
 
 ➥ Maintained by : [AF_x_SU](https://t.me/AF_x_SU)
 """
